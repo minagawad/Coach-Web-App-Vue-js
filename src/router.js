@@ -4,7 +4,7 @@ import CoachDetails from './pages/coaches/CoachDetails.vue';
 import CoachRegister from './pages/coaches/CoachRegister.vue';
 import ContactCoach from './pages/requests/ContactCoach.vue';
 import RequestReceived from './pages/requests/RequestReceived.vue';
-import { NotFound } from './pages/NotFound.vue';
+import NotFound  from './pages/NotFound.vue';
 
 
 
